@@ -1,1 +1,1 @@
-# lab-airtel
+this is demo setup
